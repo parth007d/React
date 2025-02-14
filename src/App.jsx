@@ -6,7 +6,7 @@ const App = () => {
     second: "",
   });
   const [result, setresult] = useState(0);
-
+//new commit
   const ChangeHadler = (e) => {
     setformdata({
       ...formdata,
